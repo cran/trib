@@ -1,0 +1,13 @@
+326756d793bb528c4d22a379f4ddc871 *DESCRIPTION
+afdc292b1b19759ac033fd7b10655406 *NAMESPACE
+2dca42961c650c484ebba54a65a905c0 *R/trib.R
+5ec8d860eb6e68057c33689024bdd9fc *R/tribF.R
+7d6e390eafb3ee1dbcd2d2b0845e9f7c *inst/exdata/profile/C1.csv
+dd3a81725cd7ab54c616938cb417a851 *inst/exdata/profile/C2.csv
+ed642cd669712e53784109556afb1def *inst/exdata/tribometer/c1.csv
+218a2fc1e29a1f933f390c406d6ff591 *inst/exdata/tribometer/c2.csv
+d4fb2fc93cae41bd74285f84602dcbc1 *man/trib.CoF.Rd
+f1acdb46330458ab93c7e4498cbf1113 *man/trib.FF.Rd
+5ef44f60bc1964f772c27ca0eab1aa26 *man/trib.Rd
+1730f0c91acb4c2f80c9ffa74a688416 *man/trib.names.Rd
+0483ea4fb4bb3867c8566de1fca75726 *man/trib.profile.Rd
